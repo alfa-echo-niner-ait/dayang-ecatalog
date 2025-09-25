@@ -6,9 +6,13 @@ A simple, responsive e-catalog viewer built with vanilla HTML, CSS, and JavaScri
 
 Visit the live: [https://dayang.onrender.com](https://dayang.onrender.com)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eae478c1-5e58-4266-9220-ba66a9947efc" />
+
+
 ## Features
 
 - **Responsive Design** - Works on desktop, tablet, and mobile devices
+- **SEO Support** - Favicon, Meta data, OpenGraph
 - **Multiple Navigation Methods**:
   - Arrow buttons
   - Thumbnail strip
